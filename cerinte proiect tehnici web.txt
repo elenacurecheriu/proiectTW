@@ -1,0 +1,35 @@
+Cerinte curs:
+
+- fisiere separate pentru html si css ok
+- continutul site-ului trebuie sa aiba sens ok
+
+HTML:
+- trecerea testelor de validare pentru html http://validator.w3.org/ ok
+- folosirea tagurilor semantice prezentate la curs/laborator ok
+
+CSS:
+- trecerea testelor de validare pentru CSS https://jigsaw.w3.org/css-validator/
+- site-ul trebuie sa fie responsive (media query, unitati relative, tipuri de display)
+- folosirea selectorilor CSS de baza (dupa id, clasa, tag, elementContinut, elementCopil, al n-lea copil de tipul unui tag :nth-of-type)
+- specificarea proprietatilor: width, height, color, background, font-size, border, padding, margin, display, etc;
+- folosirea coloanelor pentru layout-ul a cel putin unei pagini
+- realizarea layout-ului fara tabele (folosind flex si grid)
+- site-ul trebuie sa contina un meniu drop-down (sau altfel expandabil) realizat cu CSS ok
+- site-ul trebuie sa conina o tranzitie care implica schimbarea mai multor proprietati la intervale diferite de timp
+- site-ul trebuie sa contina o animatie care sa modifice mai multe proprietati ale aceluiasi element
+! - bonus: pentru generarea continutului folosind :after, :before (Dar sa aiba sens!)
+
+putem trata si: 
+- problema accesibilitatii
+- internationalizarii (traducere, caractere speciale etc.)
+- folosirea canvas/svg etc.
+- etc.
+
+Cerinte laborator:
+
+- proiectul va contine minim 4 pagini html: home page (index.html) si alte 3 pagini care pot fi accesate din navigation bar ok
+- fiecare pagina trebuie sa contina un head si un body ok
+- head trebuie sa contina meta, icon, title si link ok
+- body trebuie sa fie impartit in minim 3 sectiuni: header, main, footer ok
+- header trebuie sa contina un nav ok
+
